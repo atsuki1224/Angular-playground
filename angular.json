@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-playground"
+    }
+  },
+  "defaultProject": "angular-playground",
+  "cli": {
+    "analytics": "7087c48b-284a-49d1-8264-e413459034d8"
+  }
 }
